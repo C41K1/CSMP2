@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = true
+  world = csmp2.enxada.host:25565
+}
+
