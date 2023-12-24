@@ -1,7 +1,7 @@
 {
   "servers": {
     "190.115.197.183": {
-      "distance": 16,
+      "distance": 24,
       "priorityDistance": 48
     },
     "127.0.0.1": {
@@ -13,7 +13,7 @@
     "2bdc9baf-a3d6-4595-83d9-5656b291e8fd": 1.1
   },
   "whitelist": false,
-  "voiceVolume": 1.0,
+  "voiceVolume": 2.0,
   "priorityVolume": 1.0,
   "occlusion": false,
   "speakerMuted": false,
@@ -21,14 +21,14 @@
   "micIconPosition": "BOTTOM_LEFT",
   "voiceActivation": true,
   "voiceActivationThreshold": -30.0,
-  "microphoneAmplification": 1.0,
+  "microphoneAmplification": 2.0,
   "rnNoise": false,
-  "microphoneMuted": true,
+  "microphoneMuted": false,
   "javaxCapture": false,
   "hrtf": false,
-  "directionalSources": false,
+  "directionalSources": true,
   "directionalSourcesAngle": 145,
-  "compressor": true,
+  "compressor": false,
   "compressorThreshold": -10,
   "limiterThreshold": -6,
   "visualizeDistance": true,
