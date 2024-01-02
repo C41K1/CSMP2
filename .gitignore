@@ -7,6 +7,7 @@ local
 logs
 saves
 schematics
+screenshots
 .curseclient
 .sl_password
 .libvlc.dll
