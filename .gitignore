@@ -17,3 +17,5 @@ servers.dat_old
 TrashSlotSaveState.json
 usercache.json
 usernamecache.json
+emotecraft.json
+*.log
