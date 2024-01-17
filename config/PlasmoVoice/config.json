@@ -1,5 +1,13 @@
 {
   "servers": {
+    "190.115.197.156": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
+    "190.115.197.153": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
     "190.115.197.183": {
       "distance": 24,
       "priorityDistance": 48
@@ -10,7 +18,9 @@
     }
   },
   "playerVolumes": {
-    "2bdc9baf-a3d6-4595-83d9-5656b291e8fd": 1.1
+    "2881a70c-cc28-37eb-8386-f739dc2f3b5f": 0.6,
+    "2bdc9baf-a3d6-4595-83d9-5656b291e8fd": 0.0,
+    "82bd825d-e3c8-3bf2-8b07-3e5b9f7cbfa5": 0.0
   },
   "whitelist": false,
   "voiceVolume": 2.0,
@@ -23,7 +33,7 @@
   "voiceActivationThreshold": -30.0,
   "microphoneAmplification": 2.0,
   "rnNoise": false,
-  "microphoneMuted": false,
+  "microphoneMuted": true,
   "javaxCapture": false,
   "hrtf": false,
   "directionalSources": true,

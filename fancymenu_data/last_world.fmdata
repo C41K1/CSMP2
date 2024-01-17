@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = true
-  world = csmp2.enxada.host:25565
+  is_server = false
+  world = C:/Users/W10/curseforge/minecraft/Instances/CSMP 2 (1)/saves/testes 2
 }
 
