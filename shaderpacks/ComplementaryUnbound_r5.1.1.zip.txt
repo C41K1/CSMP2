@@ -1,4 +1,4 @@
-#Wed Dec 20 19:08:42 BRT 2023
+#Mon Jan 15 01:46:12 BRT 2024
 shadowDistance=96.0
 FXAA=false
 SHADOW_QUALITY=0

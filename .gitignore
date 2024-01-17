@@ -19,3 +19,6 @@ usercache.json
 usernamecache.json
 emotecraft.json
 *.log
+config/ars_nouveau/*
+emotecraft.json
+modernfix/*

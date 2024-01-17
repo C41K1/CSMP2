@@ -9,9 +9,6 @@ net.minecraft.client.gui.screens.ProgressScreen {
 net.minecraft.client.gui.screens.ReceivingLevelScreen {
 }
 
-net.minecraft.client.gui.screens.TitleScreen {
-}
-
 me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI {
 }
 
@@ -58,6 +55,9 @@ net.minecraft.client.gui.screens.inventory.InventoryScreen {
 }
 
 net.minecraft.client.gui.screens.achievement.StatsScreen {
+}
+
+net.minecraft.client.gui.screens.TitleScreen {
 }
 
 net.minecraft.client.gui.screens.PauseScreen {

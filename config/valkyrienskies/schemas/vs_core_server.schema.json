@@ -24,6 +24,11 @@
           "format" : "double",
           "description" : "Limit the max collision de-penetration speed so that rigid bodies don't go flying apart when they overlap"
         },
+        "physicsSpeed" : {
+          "type" : "number",
+          "format" : "double",
+          "description" : "How fast the physics is running. 1.0 is full speed, 0.5 is 50% speed, etc."
+        },
         "solver" : {
           "type" : "string",
           "enum" : [ "GAUSS_SEIDEL", "JACOBI" ],
