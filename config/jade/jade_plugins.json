@@ -55,6 +55,9 @@
     "showmodules": true,
     "showcustomname": true
   },
+  "productivebees": {
+    "bee_attributes": true
+  },
   "storagedrawers": {
     "display.stacklimit": true,
     "display.content": true,

@@ -18,9 +18,9 @@
     }
   },
   "playerVolumes": {
-    "2881a70c-cc28-37eb-8386-f739dc2f3b5f": 0.6,
+    "2881a70c-cc28-37eb-8386-f739dc2f3b5f": 0.2,
     "2bdc9baf-a3d6-4595-83d9-5656b291e8fd": 0.0,
-    "82bd825d-e3c8-3bf2-8b07-3e5b9f7cbfa5": 0.0
+    "82bd825d-e3c8-3bf2-8b07-3e5b9f7cbfa5": 0.15
   },
   "whitelist": false,
   "voiceVolume": 2.0,

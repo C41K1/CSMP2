@@ -1,0 +1,104 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = fancymenu_data/background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 167
+  width = 348
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = 01d7d79f-1e19-4f13-a445-1e33e5ee43e91706375919677
+  y = 131
+  height = 86
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 1fda4eb2-c171-4947-a568-b647cae862541706375919685
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  original_pos_size_calculation = true
+  x = 167
+  width = 348
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = f95ffda0-dfdd-40db-8e08-3a4f2100b8351706375919686
+  y = 285
+  height = 10
+}
+
+customization {
+  path = fancymenu_data/csmp2-logo.png
+  orientation = mid-centered
+  x = -129
+  width = 258
+  action = addtexture
+  actionid = 662ae2ff-da72-4e37-a595-95745b7f63b41706376235201
+  y = -72
+  height = 144
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = Carregando: {"placeholder":"drippy_gl_percent"}%
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -173
+  width = 172
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 64416a3a-256f-4b37-8ae4-421eec3c3a3f1706376302559
+  y = -78
+  alignment = left
+  height = 15
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = RAM: {"placeholder":"usedram"}/{"placeholder":"maxram"} ({"placeholder":"percentram"}%)
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 63
+  width = 110
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 121acc71-14f9-4e6b-890e-ebfede4683201706376688987
+  y = -78
+  alignment = left
+  height = 15
+}
+

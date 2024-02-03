@@ -2,6 +2,44 @@
   "bookGuiScale": 3,
   "clickedVisualize": true,
   "bookData": {
+    "productivebees:guide": {
+      "viewedEntries": [
+        "productivebees:hives/dragon_egg_hive",
+        "productivebees:hives/expansion_boxes",
+        "productivebees:hives/advanced_hives",
+        "productivebees:hives/nests",
+        "productivebees:guide/start",
+        "productivebees:bees/wild/crystalline",
+        "productivebees:bees/wild/draconic",
+        "productivebees:bees/wild/ender",
+        "productivebees:bees/wild/ghostly",
+        "productivebees:bees/wild/glowing",
+        "productivebees:blocks/bee_jar",
+        "productivebees:blocks/hive",
+        "productivebees:blocks/breeding_chamber",
+        "productivebees:blocks/feeder",
+        "productivebees:blocks/incubator",
+        "productivebees:blocks/honey_generator",
+        "productivebees:genetics/attributes",
+        "productivebees:blocks/bottler",
+        "productivebees:blocks/catcher",
+        "productivebees:blocks/centrifuge",
+        "productivebees:blocks/gene_indexer",
+        "productivebees:genetics/collecting",
+        "productivebees:genetics/transferring",
+        "productivebees:items/bee_cage",
+        "productivebees:items/upgrades",
+        "productivebees:items/bee_helmet",
+        "productivebees:items/combs",
+        "productivebees:items/honey_treat",
+        "productivebees:items/nest_locator",
+        "productivebees:misc/performance",
+        "productivebees:bees/hive/blazing",
+        "productivebees:bees/solitary/nomad"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
     "botania:lexicon": {
       "viewedEntries": [
         "botania:alfhomancy/elf_message",
@@ -22,7 +60,37 @@
         "botania:generating_flowers/rafflowsia",
         "botania:generating_flowers/narslimmus",
         "botania:generating_flowers/hydroangeas",
-        "botania:generating_flowers/dandelifeon"
+        "botania:generating_flowers/dandelifeon",
+        "botania:generating_flowers/entropinnyum",
+        "botania:generating_flowers/munchdew",
+        "botania:generating_flowers/intro",
+        "botania:generating_flowers/endoflame",
+        "botania:generating_flowers/gourmaryllis",
+        "botania:generating_flowers/kekimurus"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "blockcarpentry:carpentering_manual": {
+      "viewedEntries": [
+        "blockcarpentry:frame_blocks/frame_blocks_general",
+        "blockcarpentry:overlays/base_overlays",
+        "blockcarpentry:overlays/special_overlays",
+        "blockcarpentry:modifiers/glowing",
+        "blockcarpentry:modifiers/enchant_power"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "industrialforegoing:industrial_foregoing": {
+      "viewedEntries": [
+        "industrialforegoing:agr_hus/animal_rancher",
+        "industrialforegoing:agr_hus/animal_feeder",
+        "industrialforegoing:agr_hus/sewer",
+        "industrialforegoing:agr_hus/sewage",
+        "industrialforegoing:agr_hus/mob_crusher",
+        "industrialforegoing:agr_hus/hydroponic_bed",
+        "industrialforegoing:agr_hus/animal_baby_separator"
       ],
       "bookmarks": [],
       "completedManualQuests": []
@@ -52,7 +120,23 @@
         "ars_nouveau:glyphs_1/glyph_bounce",
         "ars_nouveau:glyphs_1/glyph_phantom_block",
         "ars_nouveau:glyphs_1/glyph_leap",
-        "ars_nouveau:glyphs_1/glyph_pull"
+        "ars_nouveau:glyphs_1/glyph_pull",
+        "arsomega:sigils/binding",
+        "arsomega:spell_sigils/spell_sigil_scald",
+        "arsomega:spell_sigils/spell_sigils",
+        "arsomega:spell_sigils/missing_sigils",
+        "arsomega:spell_sigils/spell_sigil_petrify",
+        "arsomega:tier_4_spells/cursed_bind",
+        "arsomega:tier_4_spells/whirlpool",
+        "arsomega:tier_4_spells/tornado",
+        "arsomega:tier_4_spells/temporal_collapse",
+        "arsomega:tier_4_spells/wither_summon",
+        "arsomega:tier_4_spells/raise_earth",
+        "arsomega:tier_4_spells/hellfire",
+        "arsomega:tier_4_spells/demonic_curse",
+        "arsomega:demon_realm/curses",
+        "arsomega:demon_realm/getting_started",
+        "arsomega:strange_portal/intro"
       ],
       "bookmarks": [],
       "completedManualQuests": []

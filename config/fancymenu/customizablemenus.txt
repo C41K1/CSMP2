@@ -57,9 +57,12 @@ net.minecraft.client.gui.screens.inventory.InventoryScreen {
 net.minecraft.client.gui.screens.achievement.StatsScreen {
 }
 
+net.minecraft.client.gui.screens.PauseScreen {
+}
+
 net.minecraft.client.gui.screens.TitleScreen {
 }
 
-net.minecraft.client.gui.screens.PauseScreen {
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
